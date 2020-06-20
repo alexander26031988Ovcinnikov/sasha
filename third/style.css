@@ -1,0 +1,94 @@
+td{ 
+    border: 5px solid black;
+    background: rgb(230, 226, 226);
+    
+}
+
+caption{
+   caption-side: bottom;
+ 
+
+}
+
+table{
+    width: 50%;
+    font-size: 0px;
+    border-collapse: collapse;
+    
+}
+tbody{
+    border: 6px solid white;
+}
+    
+tr {
+    background: rgb(230, 226, 226);
+  
+ }
+
+
+ .td8{
+width: 40px; 
+ }
+ 
+.gray{
+    background: rgb(230, 226, 226) ;
+    width: 80px;
+    
+}
+
+.white{
+    background: white;
+    width: 100px;
+
+}
+
+.white2{
+    background: white;
+    width: 200px;
+}
+.white1{
+    background: white;
+}
+
+.gray1{
+    background: rgb(230, 226, 226);
+    
+}
+
+.yellow{
+    background: yellow;
+    width: 90px;
+}
+
+.yellow1{
+    background: yellow;
+    width: 150px;
+}
+
+.yellow2{
+    background: yellow;
+    width: 90px;
+
+}
+.blue{
+    background: blue;
+   
+}
+
+.blue1{
+    background: blue;
+   
+}
+
+.red{
+    background: red;
+
+}
+
+.red1{
+
+    background: red;
+
+}
+
+
